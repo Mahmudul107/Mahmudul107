@@ -1,33 +1,79 @@
- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
- <!-- GIF HEADER --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="100%"> <h1 align="center">Hi 👋, I'm Mahmudul Islam</h1> <h3 align="center">A Passionate Software Enginner from Bangladesh</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmudul107&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahmudul107&theme=dracula&row=1&no-bg=true" alt="mahmudul107"/> </a> </p>
- 
-- 🌱 I’m currently learning **TypeScript, Redux, Next.js, NoSQL,**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahmudul107&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
 
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Mahmudul107?tab=repositories)
+<h1 align="center">     
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahmudul+Islam!;" /> 
+</h1>  
 
-- 💬 Ask me about **React, Node, JavaScript**
+<h3 align="center">A passionate Software Enginner from Bangladesh 🇧🇩</h3>  
+<br/>  
 
-- 📫 Reach me at [Email](mahmudulislam378@gmail.com)
+<div align="center">    
+   
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11AEEDetwAEkbjritOU6qLqIl4mkJLcrW/view?usp=sharing)
+👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Mahmudul107?tab=repositories)
 
-  
-<h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://linkedin.com/in/mahmudul-islam-webdev" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a> <a href="https://fb.com/mahmudulisla" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a> <a href="https://instagram.com/mahmud.ul_islam" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /> </a> <a href="https://discord.gg/.mahmudul007" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /> </a> </p>
-<h3 align="center">Languages and Tools:</h3> <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> </p>
-<h3 align="center">GitHub Stats:</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudul107&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahmudul107&show_icons=true&locale=en" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul107&" alt="GitHub Streak" /> </p>
-<h3 align="center" style="font-size: 24px; color: #ffdd00;">💛 Support My Work 💛</h3>
+💬 Ask me about **React, Node, JavaScript**
 
-<p align="center" style="font-size: 18px; color: #555;">If you enjoy my work, consider buying me a coffee! Your support means the world to me.</p>
-
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <a href="https://www.buymeacoffee.com/mahmudul_islam">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Support GIF" />
-</p>
+ 🌱 I’m currently learning **TypeScript, Redux, Next.js, NoSQL,**
 
 
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/11AEEDetwAEkbjritOU6qLqIl4mkJLcrW/view?usp=sharing)  
+</div>  
 
+<div align="center">    
+  <a href="mailto:mahmudulislam378@gmail.com">     
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />   
+  </a>   
+  <a href="https://linkedin.com/in/mahmudul-islam-webdev" target="_blank">     
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />   
+  </a>   
+  <a href="https://mahmudul-islam.netlify.app" target="_blank">      
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />   
+  </a> 
+</div>   
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=mahmudul107&theme=dracula&row=1&no-bg=true" alt="mahmudul107"/> </a> </p>
 
-<!-- GIF FOOTER -->
-<!-- RAINBOW LINE BOT --> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<hr/>   
+
+<br/> 
+<div align="center">     
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,vercel,firebase,git,html,npm,mongodb,nextjs,nodejs,postman,react,redux,tailwind,typescript" />
+    <br>
+</div>
+
+</div>  
+<br/> 
+<hr/>  
+
+<div align="center">   
+  <h2>🐍 My Contributions 🐍</h2>   
+  <br>   
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahmudul107/mahmudul107/output/github-contribution-grid-snake.svg" />      
+  <br/><br/><br/> 
+</div>  
+
+<hr/>  
+
+<h2 align="center">⚡ Stats ⚡</h2> 
+<br> 
+<div align="center">   
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mahmudul107&count_private=true&theme=react&border_radius=10" alt="streak stats"/>   
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mahmudul107&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />   
+  <br/>   
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mahmudul107&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+</div>  
+
+<br/><br/>  
+<hr/>  
+<br/>  
+
+<div align="center"> 
+  <a href='https://www.buymeacoffee.com/mahmudul_islam' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' />
+  </a> 
+</div>  
+<br/>
